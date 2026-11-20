@@ -1,0 +1,13 @@
+login;nom;groupe_principal;groupes_secondaires
+martial;Martial Dupont;admins;acces_ssh
+gabriel;Gabriel Martin;admins;acces_ssh
+joao;Joao Silva;admins;acces_ssh
+support;Compte Support;support;acces_ssh
+dev1;Alice Dev;dev;
+dev2;Bob Dev;dev;
+design1;Charlie Design;design;
+design2;Diana Design;design;
+com1;Eve Commercial;commercial;
+com2;Frank Commercial;commercial;
+free1;Grace Freelance;freelance;
+free2;Hugo Freelance;freelance;
