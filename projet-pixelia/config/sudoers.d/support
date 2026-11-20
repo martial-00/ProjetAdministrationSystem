@@ -1,0 +1,2 @@
+# Le compte support ne peut executer QUE l'analyse des journaux
+support ALL=(root) NOPASSWD: /usr/local/bin/analyse_logs.sh

@@ -1,0 +1,2 @@
+# Droits sudo pour les administrateurs Pixelia
+%admins ALL=(ALL:ALL) ALL
